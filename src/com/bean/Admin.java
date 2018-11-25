@@ -17,6 +17,7 @@ public class Admin {
 	}
 	public Admin(String userName, String password) {
 		super();
+		
 		this.userName = userName;
 		this.password = password;
 	}
